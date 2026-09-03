@@ -25,4 +25,4 @@ Dificuldades:
 - Preguiça e distração
 
 Próximo passo:
-
+-organizar ambiente de programação em C
