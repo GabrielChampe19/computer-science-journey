@@ -1,0 +1,28 @@
+# Diário de Estudos
+
+## 01/09/2026 — Semana 0
+
+Objetivo de hoje:
+- Organizar minha jornada de estudos.
+
+O que fiz:
+- Criei as pastas, para formar o caminho de estudos
+
+Dificuldades:
+- Preguiça e distração
+
+Próximo passo:
+- Git e GitHub
+
+##02/09/2026 - Semana 0
+Objetivo de hoje:
+- Desenvolver o básico de git e gihub.
+
+O que fiz:
+- Hoje aprendi o básico de Git e GitHub, criei um repositório no GitHub e uni ao meu local git
+
+Dificuldades:
+- Preguiça e distração
+
+Próximo passo:
+
