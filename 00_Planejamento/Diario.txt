@@ -26,3 +26,20 @@ Dificuldades:
 
 Próximo passo:
 -organizar ambiente de programação em C
+
+## 03/09/2026 — Semana 0 — Dia 3
+
+Objetivo:
+- Preparar o ambiente para estudar C.
+
+O que fiz:
+- Verifiquei o GCC.
+- Confirmei a extensão C/C++ no VS Code.
+- Criei a estrutura de programação em C.
+- Compilei e executei meu primeiro programa.
+
+Dificuldades:
+- Nenhuma.
+
+Próximo passo:
+- Organizar os materiais de estudo.

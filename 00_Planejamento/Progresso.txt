@@ -1,0 +1,54 @@
+# Minha Jornada em Ciência da Computação
+
+## Objetivo
+
+Reconstruir e aprofundar os conhecimentos fundamentais
+de Ciência da Computação, desenvolvendo capacidade prática
+para resolver problemas e criar projetos.
+
+## Status
+
+🔴 Não estudado
+🟡 Estudado, mas precisa de prática
+🟢 Consigo utilizar sozinho
+
+## Matemática
+- [ ] Lógica proposicional 🔴
+- [ ] Conjuntos 🔴
+- [ ] Relações 🔴
+- [ ] Funções 🔴
+- [ ] Indução matemática 🔴
+- [ ] Combinatória 🔴
+- [ ] Grafos 🔴
+- [ ] Álgebra linear 🔴
+- [ ] Probabilidade 🔴
+- [ ] Cálculo 🔴
+
+## Programação
+- [ ] Fundamentos de C 🔴
+- [ ] Funções 🔴
+- [ ] Arrays 🔴
+- [ ] Strings 🔴
+- [ ] Structs 🔴
+- [ ] Ponteiros 🔴
+- [ ] Memória dinâmica 🔴
+- [ ] Recursão 🔴
+
+## Estruturas de Dados
+- [ ] Arrays 🔴
+- [ ] Listas 🔴
+- [ ] Pilhas 🔴
+- [ ] Filas 🔴
+- [ ] Hash Tables 🔴
+- [ ] Árvores 🔴
+- [ ] Heaps 🔴
+- [ ] Grafos 🔴
+
+## Algoritmos
+- [ ] Big-O 🔴
+- [ ] Busca 🔴
+- [ ] Ordenação 🔴
+- [ ] Divisão e conquista 🔴
+- [ ] Greedy 🔴
+- [ ] Programação dinâmica 🔴
+- [ ] Backtracking 🔴
