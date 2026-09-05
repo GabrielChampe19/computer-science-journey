@@ -1,0 +1,36 @@
+# Recursos de Estudo
+
+## Matemática Discreta
+
+### Material principal
+- Matemática Discreta — Kenneth H. Rosen
+
+### Conteúdo da Semana 1
+- Proposições
+- Conectivos lógicos
+- Tabelas-verdade
+- Equivalências lógicas
+- Leis de De Morgan
+- Implicação e bicondicional
+
+---
+
+## Programação em C
+
+### Material principal
+- Estudo prático de C utilizando GCC + VS Code
+
+### Conteúdo da Semana 1
+- Estrutura de um programa C
+- Variáveis
+- Tipos de dados
+- Entrada e saída
+- Operadores
+- `if` / `else`
+- Exercícios simples
+
+---
+
+## Materiais complementares
+
+Ainda não definidos.
